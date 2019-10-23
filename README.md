@@ -1,6 +1,6 @@
 # Enso OS ISO builder
 
-A clone of [Pop!_OS ISO builder] (https://github.com/pop-os/iso) 
+A clone of [Pop!_OS ISO builder](https://github.com/pop-os/iso) 
 
 ## Requirements
 
